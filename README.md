@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi there, I'm Akshat Chawla 👋
 
-<!--
-**Akshat1307/Akshat1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Undergraduate | Software Development Enthusiast | AI & Backend Developer
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science student (2023–2027) passionate about building software that solves real-world problems. I have a strong interest in problem solving, backend development, and AI-powered applications, and I'm actively seeking Software Development Engineer (SDE) opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 B.Tech in Computer Science (Graduating 2027)
+* 💻 Interested in **Software Development Engineer (SDE)** roles
+* 🧩 Passionate about **Problem Solving** and scalable software development
+* 🚀 Solved **800+ problems** on LeetCode
+* ⭐ **5★** on HackerRank
+* 🏆 **AIR 929** in GATE CSE 2026
+* 🌱 Currently exploring AI applications, System Design and  Distributed Systems.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* C++
+* Java
+* JavaScript
+
+### Web Development
+
+* MERN Stack (MongoDB, Express.js, React, Node.js)
+* REST APIs
+
+### Databases
+
+* MongoDB
+* MySQL
+
+### Core Computer Science
+
+* Data Structures & Algorithms
+* Operating Systems
+* Database Management Systems (DBMS)
+* Computer Networks
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI Personal Knowledge Base
+
+An AI-powered knowledge management application that enables semantic search and intelligent retrieval using modern LLM techniques.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Gemini API
+
+---
+
+### 🎯 CodeHustle
+
+A full-stack online coding platform inspired by LeetCode that enables users to solve coding problems, execute code in multiple programming languages, track submissions, and receive AI-powered assistance.
+
+**Tech Stack:** React, Node.js, MongoDB, Redis, Judge0 API, Gemini API
+
+---
+
+## 🏆 Achievements
+
+* 🥇 **AIR 929** — GATE CSE 2026
+* 💯 Solved **800+** algorithmic problems on LeetCode
+* ⭐ Earned **5★** rating on HackerRank
+
+---
+
+## 📚 Areas of Interest
+
+* Software Engineering
+* Backend Development
+* Artificial Intelligence
+* Problem Solving
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Akshat1307
+* LinkedIn: https://linkedin.com/in/akshatchawla1307
+* Email: [akshatchawla1307@gmail.com](mailto:akshatchawla1307@gmail.com)
+
+---
+
+> *"Striving to write clean code, solve challenging problems, and build software that creates impact."*
+
