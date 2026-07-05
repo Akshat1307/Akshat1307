@@ -7,8 +7,6 @@ I'm a B.Tech Computer Science student (2023–2027) passionate about building so
 * 🎓 B.Tech in Computer Science (Graduating 2027)
 * 💻 Interested in **Software Development Engineer (SDE)** roles
 * 🧩 Passionate about **Problem Solving** and scalable software development
-* 🚀 Solved **800+ problems** on LeetCode
-* ⭐ **5★** on HackerRank
 * 🏆 **AIR 929** in GATE CSE 2026
 * 🌱 Currently exploring AI applications, System Design and  Distributed Systems.
 
@@ -39,12 +37,6 @@ I'm a B.Tech Computer Science student (2023–2027) passionate about building so
 * Database Management Systems (DBMS)
 * Computer Networks
 
-### Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
-
 ---
 
 ## 🚀 Featured Projects
@@ -65,22 +57,6 @@ A full-stack online coding platform inspired by LeetCode that enables users to s
 
 ---
 
-## 🏆 Achievements
-
-* 🥇 **AIR 929** — GATE CSE 2026
-* 💯 Solved **800+** algorithmic problems on LeetCode
-* ⭐ Earned **5★** rating on HackerRank
-
----
-
-## 📚 Areas of Interest
-
-* Software Engineering
-* Backend Development
-* Artificial Intelligence
-* Problem Solving
-
----
 
 ## 📫 Connect With Me
 
