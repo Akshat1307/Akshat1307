@@ -1,6 +1,6 @@
 # Hi there, I'm Akshat Chawla 👋
 
-### Computer Science Undergraduate | Software Development Enthusiast | AI & Backend Developer
+### B.Tech Computer Science and Engineering | C++ . Java | AI & Backend 
 
 I'm a B.Tech Computer Science student (2023–2027) passionate about building software that solves real-world problems. I have a strong interest in problem solving, backend development, and AI-powered applications, and I'm actively seeking Software Development Engineer (SDE) opportunities.
 
